@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anietie Effiong
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Software Engineering and web development @ALX
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on both web design and Structural Design of all kinds  ...
 - 📫 How to reach me ... You can reach me via @effionganietie250@gmail.com
 
 <!---
